@@ -1,0 +1,11 @@
+streamlit
+matplotlib
+mysql-connector-python
+networkx
+nltk
+plotly
+pmdarima
+pydalvis
+sastrawi
+textblob
+vadersentiment
